@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="safe_black_han_sans" type="font">@font/black_han_sans_family</item>
+</resources>
